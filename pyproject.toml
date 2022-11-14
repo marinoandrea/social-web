@@ -11,6 +11,7 @@ python = "^3.8"
 twitter = "^1.19.6"
 prettytable = "^3.5.0"
 matplotlib = "^3.6.2"
+python-dotenv = "^0.21.0"
 
 [tool.poetry.group.dev.dependencies]
 jupyter = "^1.0.0"
