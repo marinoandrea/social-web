@@ -2,7 +2,7 @@
 name = "social-web"
 version = "0.1.0"
 description = ""
-authors = ["Your Name <you@example.com>"]
+authors = ["Andrea Marino <am.marinoandrea@gmail.com>"]
 readme = "README.md"
 packages = [{include = "social_web"}]
 
@@ -15,6 +15,7 @@ matplotlib = "^3.6.2"
 [tool.poetry.group.dev.dependencies]
 jupyter = "^1.0.0"
 notebook = "^6.5.2"
+mypy = "^0.990"
 
 [build-system]
 requires = ["poetry-core"]
